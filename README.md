@@ -17,21 +17,21 @@
 
 <!-- 🔭 **[RepoExplainer](https://github.com/BaoNguyen09)** – AI-powered repo explanations so you can understand any codebase. -->
 
-## Current Projects (2026)
+## 🚀 Current Projects
 
-- 📃 **[Daylog](https://github.com/baonguyen09/daylog-dock)** - A quiet daily markdown note app for Windows, built into the PowerToys Command Palette Dock.
-- ✍️ **[Freewrite](https://github.com/baonguyen09/freewrite-windows)** - One simple, clean journal app to write continuously without distraction.
-- 🎓 **[Grade Pilot](https://github.com/baonguyen09/grade-pilot)** - Plan your grades, forecast your best-case GPA.
-- 📖 **[RepoExplainer](https://github.com/BaoNguyen09/repo-explainer)** - AI repo explanations so you can understand any codebase
-- 🍥 **[Dishcovery](https://github.com/BaoNguyen09/hackday-arizona)** - Real-time AI for food discovery based on where you are (Hack Arizona HackDay 2026)
-<!-- - 🗣️ **[Sparr](https://github.com/Baonguyen09/sparr)** - AI interview coach that knows you and your progress. -->
-## Legacy Work
+* 🧠 **[CuraMind AI](https://github.com/kp6840/Curamind-ai)** – AI-powered healthcare platform with secure authentication, patient management, role-based access control, and intelligent medical workflows.
+* 📈 **[Dash AI](https://github.com/kp6840/Dash_AI)** – AI-driven SEO & digital marketing platform featuring content generation, keyword optimization, and productivity tools.
+* 💰 **[Wealth](https://github.com/kp6840/Wealth)** – Full-stack AI finance platform for expense tracking, analytics, and intelligent financial insights.
+* ⚡ **[Real-Time Data Processor](https://github.com/kp6840/Real-Time-Data-Processor)** – Event-driven data processing system for handling real-time streams efficiently.
+* 🤖 **[Sofia Desktop Assistant](https://github.com/kp6840/Sofia-desktop-assistant)** – Python-based virtual desktop assistant inspired by JARVIS with voice commands and automation features.
 
-- 🧠 **[GitHub Second Brain](https://github.com/BaoNguyen09/github-second-brain)** - MCP server so AI can explore GitHub codebases
-- ☁️ **[Cloud Provisioner](https://github.com/BaoNguyen09/VM_Manager)** - One dashboard to access and control team VMs
-- 🍦 **[Restaurant Management System](https://github.com/BaoNguyen09/csc_335_restaurant)** - Desktop app for orders, billing, and sales analytics
-- 🎵 **[Music Library](https://github.com/BaoNguyen09/csc335_music_library)** - CLI to manage music collections with search, playlists, and auth
-- 💬 **[Anonymous Chat](https://github.com/matthewsong18/csc337-final-project)** - Anonymous group chats with real-time messaging and polls
+## 💼 Other Projects
+
+* 📊 **[Trading Bot Assignment](https://github.com/kp6840/trading-bot-assignment)** – Algorithmic trading bot built using Python.
+* 🎵 **[Spotify Clone](https://github.com/kp6840/Spotify-Clone)** – Responsive music streaming UI inspired by Spotify.
+* 👨‍💻 **[About Me](https://github.com/kp6840/About-Me)** – Interactive personal profile website.
+* 🛠️ **[Git Workshop](https://github.com/kp6840/git_workshop)** – Git practice repository covering version control workflows and collaboration.
+
 
 <!--
 ## Featured / Side Project (closed source or main product)
