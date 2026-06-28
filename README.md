@@ -1,4 +1,4 @@
-# Hi, I'm Bao Nguyen 👋
+# Hi, I'm Khush Parikh 👋
 
 📍 **Udaipur, Rajasthan** | 🤖 **Web & AI Developer | Full-Stack Engineer** | 🚀 **CS Undergrad @ SRM University**
 
