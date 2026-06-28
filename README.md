@@ -72,9 +72,9 @@ If you use a blog (e.g. Hashnode, Dev.to, or your own site), you can auto-genera
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Bao_Nguyen-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kp6840)
+[![LinkedIn](https://img.shields.io/badge/-Khush_Parikh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kp6840)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kp6840)
-[![Portfolio](https://img.shields.io/badge/-thienbao.dev-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://khush-parikh.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://khush-parikh.vercel.app/)
 <!-- [![Twitter](https://img.shields.io/badge/-@yourhandle-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) -->
 
 ---
