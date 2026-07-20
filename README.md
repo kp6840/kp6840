@@ -45,12 +45,6 @@
 - 📄 **[Past Project](https://link)** -- Short description
 -->
 
-## GitHub Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=kp6840&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
-![Streak](https://streak-stats.demolab.com?user=kp6840&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kp6840&layout=compact&theme=tokyonight)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=kp6840&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
