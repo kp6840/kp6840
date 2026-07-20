@@ -47,9 +47,14 @@
 
 ## GitHub Activity
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kp6840&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kp6840&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kp6840&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/kp6840)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kp6840)](https://git.io/streak-stats)
+---
+[![](https://komarev.com/ghpvc/?username=kp6840&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- <p align="left">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=baonguyen09&show_icons=true&locale=en&show=prs_merged_percentage&hide=issues&rank_icon=percentile" alt="baonguyen09" />
   <img width="47.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=baonguyen09&" alt="baonguyen09" />
