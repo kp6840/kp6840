@@ -48,7 +48,7 @@
 ## GitHub Activity
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com?user=kp6840&theme=dark)
+![](https://github-readme-stats.shion.dev/api?username=kp6840&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=kp6840&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kp6840&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
