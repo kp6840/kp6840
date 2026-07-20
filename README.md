@@ -47,9 +47,6 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/kp6840)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kp6840)](https://git.io/streak-stats)
-
 <!-- <p align="left">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=baonguyen09&show_icons=true&locale=en&show=prs_merged_percentage&hide=issues&rank_icon=percentile" alt="baonguyen09" />
   <img width="47.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=baonguyen09&" alt="baonguyen09" />
